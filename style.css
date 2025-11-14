@@ -1,0 +1,62 @@
+body{
+    background-color: lightblue;
+}
+
+.text{
+    text-align: center;
+}
+
+.p1{
+    text-align: center;
+}
+
+.container{
+    background-color: lightcoral;
+    width: 1340px;
+    height: 300px;
+    margin-top: 50px;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.yellow{
+    background-color: rgb(236, 236, 134);
+    width: 400px;
+    height: 200px;
+    margin-right: 150px;
+    margin-top: 40px;
+    border: dashed grey 2px;
+
+}
+
+.green{
+    background-color: lightgreen;
+    height: 150px;
+    width: 400px;
+    margin-top: 70px;
+    border: dashed grey 2px;
+}
+
+.t1{
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+.p2{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.t3{
+    text-align: center;
+
+}
+
+.p3{
+    text-align: center;
+}
+
+.end{
+    text-align: center;
+}
